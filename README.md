@@ -7,7 +7,7 @@ I've been trying my best to code since 2020. I'm trying my best to do as many co
 
 ## Languages I'm using
 <img style="padding: 1.5px" align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg" />
-<img style="padding: 1.5px" align="left" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/budget-warrior/budget-warrior/main/assets//svelte.svg" />
+<img style="padding: 1.5px" align="left" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/budget-warrior/budget-warrior/main/assets/svelte.svg" />
 <img style="padding: 1.5px" align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/csharp.svg" /><br /><br />
 
 ## Stats
