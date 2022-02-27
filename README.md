@@ -1,6 +1,6 @@
 # Hi there, I'm Warrior, an aspiring programmer!
 
-I've been learning how to code since 2020. Since then, I've changed my vision as a programmer a lot. I went from wanting to use JavaScript (and JavaScript alone), to Python, to C++, to Rust, until finally deciding on C# since that is what I'm the most comfortable with. Its syntax isn't too complex/overwhelming (like C++), it's statically typed (unlike Python and JavaScript) and doesn't have that many weird quirks that I had to learn as a beginner (unlike Rust).
+I've been learning how to code since 2020. Since then, I've changed my vision as a programmer a lot. I've tried multiple languages, but by far the one that I like the most are C# and JS, so I use both.
 
 ## IDE I'm currently using
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg" /><br />
