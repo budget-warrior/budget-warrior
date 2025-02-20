@@ -1,7 +1,8 @@
 # Hi there, I'm Warrior, an aspiring programmer!
 
-## IDE I'm currently using
+## IDEs I'm currently using
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg" /><br />
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/mempler/mempler/refs/heads/main/assets/clion.png" /><br />
 
 ## Languages I'm using
 <img style="padding: 1.5px" align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg" />
